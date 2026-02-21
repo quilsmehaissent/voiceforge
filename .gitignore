@@ -1,0 +1,53 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Large Binaries (do not upload to Github)
+models/
+backend/models/
+.hf_cache/
+.cache/
+
+# User Data and Logs
+backend.log
+backend/static/generations/*.wav
+backend/static/generations/*.mp3
+backend/static/generations/*.json
+
+# Node.js
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+.npm-cache/
+.pnp
+.pnp.*
+.yarn/
+*.tsbuildinfo
+
+# OS files
+.DS_Store
+Thumbs.db
+*.pem
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+.vercel
+
+# Misc
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
