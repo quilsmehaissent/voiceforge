@@ -1,5 +1,9 @@
 # VoiceForge 🎙️
 
+<p align="center">
+  <img src="./banner.png" alt="VoiceForge Retro Banner" width="600px">
+</p>
+
 A modern text-to-speech application powered by **Qwen3-TTS** from Alibaba Cloud.
 
 > 📖 **[View the Quick Tutorial](./TUTORIAL.md)** for a guide on how to use the app!
