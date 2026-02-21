@@ -170,6 +170,3 @@ voiceforge-qwen3/
 - **Qwen3-TTS**: Developed by [Qwen Team at Alibaba Cloud](https://github.com/QwenLM/Qwen3-TTS)
 - **License**: Apache 2.0
 
-## License
-
-MIT License - feel free to use this for any purpose.
